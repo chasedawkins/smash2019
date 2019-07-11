@@ -1,0 +1,18 @@
+about-me.html
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Index</title>
+	</head>
+	<body>
+		<nav>
+			<a href="index.html">Home</a>
+			<a href="about-me.html">About-Me</a>
+			<a href="projects.html">Projects</a>
+			<a href="contacts.html">Contacts</a>
+		</nav>		
+		<p>My name is Chase Dawkins, I'm 14 years old,and I'm a first year sholar. I attend Maynard Jackson Highshool and I'm a rising sophmore. My favorite sports are basketball, soccer, and track. I love bacon cheese burgers and my favorite color is red because of the color pops. In my spare time I like to read and play video games to help me relax and destress.</p>
+		<p> My family is probably the most important thing to me. My sister,my mom,my dad,and my dog kingston are what bring me joy. They are my biggest supporters, feircest protecters, and most loyal people I know. Each one of them embody what type of person I hope to become for that I am truly grateful.</p>
+			<img src="/C:/Users/SMASH%20Scholar/Pictures/Camera%20Roll/WIN_20190614_22_28_49_Pro.jpg">
+	</body>
+</html>
